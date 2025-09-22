@@ -253,7 +253,7 @@ export default function App() {
               </button>
               <button
                 onClick={signOut}
-                style={{ marginLeft: "auto", padding: "8px 12px" }}
+                style={{ marginLeft: "20px", padding: "8px 12px" }}
               >
                 Sign out
               </button>
